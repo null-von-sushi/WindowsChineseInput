@@ -15,5 +15,7 @@ This is meant for when trying to input Traditional Chinese using Pinyin.
  - Now open notepad.exe and switch to chinese input, input should now use your chosen region instead of US/American.
  
 ## 2) Add correct quotes （`He wrote「 Hello World」`）:
-This will require autohotkey in some form.
-
+_This will require autohotkey in some form._
+ 
+There is a script available at `/QuotationMarks/ZH.ahk` in this repository. If you have autohotkey installed and registered for .ahk files, you can download the file to `shell:startup` to make it run on Windows logon.
+This will let you type the correct quotes for traditional chinese by pressing `Alt+[` and `Alt+]` respectively.
