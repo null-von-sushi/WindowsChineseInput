@@ -26,4 +26,4 @@ _This is purely cosmetic. This will rename the name of the keyboard layout from 
  
 The long term effects are not tested, but there have been no sideeffects found by using this. It is recomended you manually change the values using regedit, and make a backup of your current values first. Nevertheless, the original values I had have been provided for reference.
  - To apply, [take a look at the registry values described in /Cosmetic/Pinyin_Neutral.reg of this repository.](https://github.com/null-von-sushi/WindowsChineseInput/blob/master/Cosmetic/Pinyin_Neutral.reg)
- - The aforementioned "original values are found at [/Cosmetic/Pinyin_Original.reg in this repository.](https://github.com/null-von-sushi/WindowsChineseInput/blob/master/Cosmetic/Pinyin_Original.reg)"
+ - The aforementioned "original values" are found at [/Cosmetic/Pinyin_Original.reg in this repository.](https://github.com/null-von-sushi/WindowsChineseInput/blob/master/Cosmetic/Pinyin_Original.reg)"
