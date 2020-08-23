@@ -5,7 +5,7 @@ This is meant for when trying to input Traditional Chinese using Pinyin.
 ## Contents:
  - [Fix layout for pinyin](https://github.com/null-von-sushi/WindowsChineseInput/blob/master/README.md#1-fix-keyboard-layout-for-pinyin)
  - [Add correct quotation marks](https://github.com/null-von-sushi/WindowsChineseInput#2-add-correct-quotes-he-wrote-hello-world)
- - [Cosmetic changes](https://github.com/null-von-sushi/WindowsChineseInput#2-add-correct-quotes-he-wrote-hello-world)
+ - [Cosmetic changes](https://github.com/null-von-sushi/WindowsChineseInput#3-cosmetic-changes-rename-chinese-simplified-china-to-chinese-pinyin)
 
 ## 1) Fix keyboard layout for Pinyin:
 ([Credit to this website for finding the trick to switch the layout](http://xahlee.info/comp/Chinese_input_with_Dvorak.html)) 
